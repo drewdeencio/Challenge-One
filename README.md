@@ -2,14 +2,14 @@
 
 # Description
 
-* This challenge was to refactor HTML and CSS code for the website "Horiseon" to become more accessible. The end result of these changes was to organize and correct the HTML & CSS files without changing the appearance or structure of the webpage.
+* This challenge was to refactor an existing site "Horiseon" to make it more accessible without changing the appearance of the website.
 
 # Changelog
 
 * Changed title from "website" to "Horiseon"
 * Implemented semantic HTML elements Header,Footer,Nav,Aside
 * Added Alt and Title attributes to images
-* Remove the digital-marketing-meeting image from CSS and added the image directely to index.html
+* Removed the digital-marketing-meeting image from CSS and added the image directely to index.html
   
 
 # Links
@@ -21,7 +21,7 @@
 * MacOS or Windows 10
 
 # Author
-* 
+* Drew de Encio - https://github.com/drewdeencio
 
 # Screenshot
 
