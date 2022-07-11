@@ -2,7 +2,7 @@
 
 # Description
 
-* This challenge was to refactor an existing site "Horiseon" to make it more accessible without changing the appearance of the website.
+* This challenge was to refactor an existing site "Horiseon" to make it more accessible using HTML and CSS without changing the appearance of the website.
 
 # Changelog
 
