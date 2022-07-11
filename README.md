@@ -14,8 +14,8 @@
 
 # Links
 
-* 
-* 
+* https://github.com/drewdeencio/Challenge-One (github repository)
+* https://drewdeencio.github.io/Challenge-One/ (webpage)
 
 # Requirements
 * MacOS or Windows 10
